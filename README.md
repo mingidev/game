@@ -1,4 +1,4 @@
-MADE BY PYGAME
+PYGAME
 ----------------
 
 ![](/data/image.png)
